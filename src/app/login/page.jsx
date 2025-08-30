@@ -80,7 +80,7 @@ const Page = () => {
     </a>
 
     <Link 
-      href={'https://t.me/NuriddinovIlyosbek'} 
+      href={'https://t.me/IlyosDev_official'} 
       className="login-social-icon telegram" 
       aria-label="Telegram"
       target="_blank" 

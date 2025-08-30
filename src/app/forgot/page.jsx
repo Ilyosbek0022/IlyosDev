@@ -44,7 +44,7 @@ const Page = () => {
   <p className="login-social-text">Our social</p>
   <div className="login-social-icons-grid">
     <a 
-      href="https://www.instagram.com/nuriddinov_ilyosbek_14/" 
+      href="https://www.instagram.com/ilyosdev_officialcomunity?igsh=dG01dXV1cGdsNmU0" 
       className="login-social-icon instagram" 
       aria-label="Instagram"
       target="_blank" 
@@ -80,7 +80,7 @@ const Page = () => {
     </a>
 
     <Link 
-      href={'https://t.me/NuriddinovIlyosbek'} 
+      href={'https://t.me/IlyosDev_official'} 
       className="login-social-icon telegram" 
       aria-label="Telegram"
       target="_blank" 

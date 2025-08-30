@@ -22,7 +22,7 @@ const Footer = () => {
 
         {/* Socials */}
         <div className="footer-socials">
-          <a href="https://www.instagram.com/nuriddinov_ilyosbek_14/" className="icon-card" aria-label="Instagram">
+          <a href="https://www.instagram.com/ilyosdev_officialcomunity?igsh=dG01dXV1cGdsNmU0" className="icon-card" aria-label="Instagram">
             <svg fillRule="nonzero" height="26px" width="26px" viewBox="0,0,256,256" className="instagram">
               <g style={{ mixBlendMode: "normal" }}>
                 <g transform="scale(8,8)">
@@ -58,7 +58,7 @@ const Footer = () => {
             </svg>
           </a>
 
-          <Link href="https://t.me/NuriddinovIlyosbek" className="icon-card" aria-label="Telegram">
+          <Link href="https://t.me/IlyosDev_official" className="icon-card" aria-label="Telegram">
             <svg height="26px" width="26px" viewBox="0 0 24 24" className="telegram">
               <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8
               c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5

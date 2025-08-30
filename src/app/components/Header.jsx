@@ -37,7 +37,7 @@ const Header = () => {
           
           <div className='social-icons-container'>
             <div className="social-icons">
-              <a href="https://www.instagram.com/nuriddinov_ilyosbek_14/" className="icon-card" aria-label="Instagram">
+              <a href="https://www.instagram.com/ilyosdev_officialcomunity?igsh=dG01dXV1cGdsNmU0" className="icon-card" aria-label="Instagram">
                 <svg fillRule="nonzero" height="30px" width="30px" viewBox="0,0,256,256" className="instagram">
                   <g style={{mixBlendMode: 'normal'}}>
                     <g transform="scale(8,8)">
@@ -58,7 +58,7 @@ const Header = () => {
                   <path d="M42,12.429c-1.323,0.586-2.746,0.977-4.247,1.162c1.526-0.906,2.7-2.351,3.251-4.058c-1.428,0.837-3.01,1.452-4.693,1.776C34.967,9.884,33.05,9,30.926,9c-4.08,0-7.387,3.278-7.387,7.32c0,0.572,0.067,1.129,0.193,1.67c-6.138-0.308-11.582-3.226-15.224-7.654c-0.64,1.082-1,2.349-1,3.686c0,2.541,1.301,4.778,3.285,6.096c-1.211-0.037-2.351-0.374-3.349-0.914c0,0.022,0,0.055,0,0.086c0,3.551,2.547,6.508,5.923,7.181c-0.617,0.169-1.269,0.263-1.941,0.263c-0.477,0-0.942-0.054-1.392-0.135c0.94,2.902,3.667,5.023,6.898,5.086c-2.528,1.96-5.712,3.134-9.174,3.134c-0.598,0-1.183-0.034-1.761-0.104C9.268,36.786,13.152,38,17.321,38c13.585,0,21.017-11.156,21.017-20.834c0-0.317-0.01-0.633-0.025-0.945C39.763,15.197,41.013,13.905,42,12.429" />
                 </svg>
               </a>
-<Link href={'https://t.me/NuriddinovIlyosbek'} className="icon-card" aria-label="Telegram">
+<Link href={'https://t.me/IlyosDev_official'} className="icon-card" aria-label="Telegram">
   <svg height="30px" width="30px" viewBox="0 0 24 24" className="telegram">
     <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.03-.09.06-.17-.06-.26-.12-.09-.3-.06-.43-.04-.18.03-3.1 1.97-4.37 2.89-.4.29-.76.43-1.09.42-.36-.01-1.06-.2-1.57-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 7.36-3.45.83-.44 1.66-.67 2.08-.57.54.13.87.5.8 1.48z" fill="currentColor"/>
   </svg>
