@@ -6,13 +6,13 @@ const Footer = () => {
   return (
     <footer className="site-footer">
       <div className="footer-content">
-        {/* Logo */}
+      
         <div className="footer-logo">
           <h2>⚡ IlyosDev</h2>
           <p>Community • Finding Talents • Problem solving </p>
         </div>
 
-        {/* Links */}
+       
         <ul className="footer-links">
           <li><Link href="/">Home</Link></li>
           <li><Link href="/loginup">Sign Up</Link></li>
@@ -20,7 +20,7 @@ const Footer = () => {
           <li><Link href="/">Contact</Link></li>
         </ul>
 
-        {/* Socials */}
+       
         <div className="footer-socials">
           <a href="https://www.instagram.com/ilyosdev_officialcomunity?igsh=dG01dXV1cGdsNmU0" className="icon-card" aria-label="Instagram">
             <svg fillRule="nonzero" height="26px" width="26px" viewBox="0,0,256,256" className="instagram">

@@ -12,7 +12,7 @@ const Header = () => {
 
  useEffect(() => {
     if (!localStorage.getItem('cookieAccepted')) {
-      toast.info('🍪 Sayt cookie fayllardan foydalanadi.', {
+      toast.info('🍪cookies are accepted click to close', {
         position: 'bottom-center',
         autoClose: false,
         closeOnClick: true,
@@ -113,7 +113,7 @@ const Header = () => {
             <img src="/akateacher.jpg" alt="Muhammmad Fayziyev" />
             <div className="node-info">
               <h3>Muhammmad Fayziyev</h3>
-              <p>Senior Developer</p>
+              <p>Middle Developer</p>
             </div>
           </div>
         </div>
@@ -123,7 +123,7 @@ const Header = () => {
             <img src="/ismoilaka.jpg" alt="Olimov Ismoil" />
             <div className="node-info">
               <h3>Olimov Ismoil</h3>
-              <p>Senior Developer</p>
+              <p>Strong Junior Developer</p>
             </div>
           </div>
         </div>
@@ -133,10 +133,10 @@ const Header = () => {
             <img src="/rasmim.webp" alt="Nuriddinov Ilyosbek" className="pos" />
             <div className="node-info">
               <h3>Nuriddinov Ilyosbek</h3>
-              <p>Full-stack Developer</p>
+              <p>Frontend Developer</p>
             </div>
           </div>
-          
+           
           
           <div className="branch-level">
             <div className="branch-line"></div>
@@ -156,7 +156,7 @@ const Header = () => {
                 <img src="/shox.jpg" alt="O`lmasov Shohjaxon" className="h-[120px] w-[220px]" />
                 <div className="node-info">
                   <h3>O`lmasov Shohjaxon</h3>
-                  <p>UI/UX Designer</p>
+                  <p>Frontend Developer</p>
                 </div>
               </div>
             </div>
@@ -166,7 +166,7 @@ const Header = () => {
                 <img src="/user.png" alt="Elendar" />
                 <div className="node-info">
                   <h3>Elendar</h3>
-                  <p>Backend Developer</p>
+                  <p>Frontend Developer</p>
                 </div>
               </div>
             </div>
@@ -176,7 +176,7 @@ const Header = () => {
                 <img src="azam.jpg" alt="Azamat Odilov" />
                 <div className="node-info">
                   <h3>Azamat Odilov</h3>
-                  <p>DevOps Engineer</p>
+                  <p>Frontend Developer</p>
                 </div>
               </div>
             </div>
